@@ -1,4 +1,4 @@
-# Maris Usis
+# I'm Maris Usis (hi! 👋)
 
 Firmware and systems engineer. C and Rust for solid-state power infrastructure at Vertiv. Experience in reverse engineering, embedded debugging, system design, and networking.
 
