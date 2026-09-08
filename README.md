@@ -10,8 +10,6 @@ Firmware and systems engineer. C and Rust for solid-state power infrastructure a
 
   **Demo:** Streaming a MacOS host to an iOS client. Used Claude Opus 5 to scaffold the iOS-specific code based on my desktop client implementation (only had my one laptop at the time of recording). The same `wgpu` pipeline and networking code is used, but we render to a `SurfaceTargetUnsafe::CoreAnimationLayer`. [Find the demo video here.](https://usis.dev)
 
-  *(demo video: `output.mp4`)*
-
 - **sdr-scraper**: async Rust collector recording from 50+ simultaneous WebSocket software-defined-radio endpoints (`tokio`, `tokio-tungstenite`). [repo](https://github.com/marisusis/sdr-scraper)
 - **HC37 NOR flash driver for OpenOCD**: implemented a flash backend in OpenOCD for the chip in an off-the-shelf HF radio, enabling firmware extraction and reverse engineering. (C, OpenOCD, gdb)
 - **route-suite**: graph-based `ASIO` audio routing on Windows (C++), sub-7ms latency between clients. (C, C++) [repo](https://github.com/marisusis/route-suite)
