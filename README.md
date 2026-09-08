@@ -2,9 +2,7 @@
 
 Firmware and systems engineer. C and Rust for solid-state power infrastructure at Vertiv. Experience in reverse engineering, embedded debugging, system design, and networking.
 
-Columbus, Ohio
-
-[GitHub](https://github.com/marisusis) · [LinkedIn](https://linkedin.com/in/marisusis) · [ORCID](https://orcid.org/0009-0004-3030-9081) · [marisusis0@protonmail.com](mailto:marisusis0@protonmail.com)
+[LinkedIn](https://linkedin.com/in/marisusis) · [ORCID](https://orcid.org/0009-0004-3030-9081) · [marisusis0@protonmail.com](mailto:marisusis0@protonmail.com)
 
 ## Some of my projects
 
