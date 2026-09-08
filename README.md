@@ -17,3 +17,11 @@ Firmware and systems engineer. C and Rust for solid-state power infrastructure a
 
 - Detecting changes in along-path HF propagation during the April 2024 total solar eclipse with radio amateurs and low-cost instrumentation. *Frontiers in Astronomy and Space Sciences*, 2026. [doi:10.3389/fspas.2025.1720301](https://doi.org/10.3389/fspas.2025.1720301)
 - Hydropower and environmental flow management: System-level trade-offs at Glen Canyon Dam. *Journal of Hydrology: Regional Studies*, 2025. [doi:10.1016/j.ejrh.2025.102624](https://doi.org/10.1016/j.ejrh.2025.102624)
+
+## What else do I do?
+
+Other than software development, I enjoy:
+- Skiing!  ⛷️
+- Making music (addicted to Ableton Live 11 Suite, Serum 2, and ShaperBox)
+- Listening to music (jazz, edm, rnb, pop, always looking for new music to listen to!)
+- Gaming (minecraft, gta, balatro, hitman)
