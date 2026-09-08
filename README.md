@@ -6,9 +6,7 @@ Firmware and systems engineer. C and Rust for solid-state power infrastructure a
 
 ## Some of my projects
 
-- **Mirror**: a low-latency, gaming-performance, accelerated headless remote desktop solution built on QUIC and Linux. Work-in-progress, will open source once end-to-end prototype with headless Linux host is functional.
-
-  **Demo:** Streaming a MacOS host to an iOS client. Used Claude Opus 5 to scaffold the iOS-specific code based on my desktop client implementation (only had my one laptop at the time of recording). The same `wgpu` pipeline and networking code is used, but we render to a `SurfaceTargetUnsafe::CoreAnimationLayer`. [Find the demo video here.](https://usis.dev)
+- **Mirror**: a low-latency, gaming-performance, accelerated headless remote desktop solution built on QUIC and Linux. Work-in-progress, will open source once end-to-end prototype with headless Linux host is functional. [Demo video here.](https://usis.dev)
 
 - **sdr-scraper**: async Rust collector recording from 50+ simultaneous WebSocket software-defined-radio endpoints (`tokio`, `tokio-tungstenite`). [repo](https://github.com/marisusis/sdr-scraper)
 - **HC37 NOR flash driver for OpenOCD**: implemented a flash backend in OpenOCD for the chip in an off-the-shelf HF radio, enabling firmware extraction and reverse engineering. (C, OpenOCD, gdb)
